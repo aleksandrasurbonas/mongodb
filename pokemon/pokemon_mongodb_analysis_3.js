@@ -1,5 +1,5 @@
 // title: POKEMON ANALIZĖ
-// v: 2021-04-15T2020 AU
+// v: 2021-04-19T1901 AU // demo
 
 // 3. Kiek Pokemonų neturi slaptų galių?
 db.Pokemon.find(
