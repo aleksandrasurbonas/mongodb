@@ -1,5 +1,5 @@
 // title: word count - mongodb - 1. load data
-// v: 2021-04-18T2215 AU
+// v: 2021-04-19T1940 AU // demo
 use test
 ;
 db.createCollection('words')
